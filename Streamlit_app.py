@@ -59,7 +59,7 @@ Dietary_Habits_options = {"Unhealthy": 3, "Moderate": 2, "Healthy": 1}
 Dietary_Habits_label = st.selectbox("Dietary Habits", list(Dietary_Habits_options.keys()))
 Dietary_Habits_value = Dietary_Habits_options[Dietary_Habits_label]  # Convert to numeric
 
-study_hours = st.slider("Daily Study Hours", 0, 12, 6)
+study_hours = st.slider("Daily Study Hours", 0, 12)
 
 Family_History_options = {"No": 0, "Yes": 1}
 Family_History_label = st.selectbox("Family History of Mental Illness", list(Family_History_options.keys()))
