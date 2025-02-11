@@ -37,7 +37,7 @@ The dataset contains student records, including academic performance, social beh
 
 -Apply various algorithms (Logistic Regression, Random Forest, etc.) to predict depression risk.
 
--Evaluate models based on accuracy and interpretability.
+-Evaluate models based on accuracy .
 
 **3️⃣ Interactive Analysis & Insights**
 
@@ -47,21 +47,18 @@ The dataset contains student records, including academic performance, social beh
 
 ---
 
-## 📊 Key Insights
 
-**1️⃣ What factors contribute most to depression risk?**
-
-Academic performance, social engagement, and behavioral patterns show strong correlations with mental health status.
-
-**2️⃣ What trends were observed?**
-
-Students with lower academic performance and social isolation had a higher likelihood of depression symptoms.
-
----
 
 ## 🖥️ Technologies Used
+
 **Python (pandas, scikit-learn, numpy, seaborn)**
+
 **Machine Learning (Logistic Regression, Random Forest, etc.)**
+
 **Streamlit for app development**
+
 **Tableau for interactive data visualization**
+
 **Jupyter Notebook for analysis and modeling**
+
+---
